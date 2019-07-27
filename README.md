@@ -22,6 +22,6 @@ Edit/Add any journals to white list in the `journalList` variable. Use the follo
 
 Save bookmark.
 
-After searching on pubmed using a basic term (not advanced search), while on the results page, click the bookmark.
+After searching on pubmed using a basic term (not advanced search), while on the results page, click the bookmark. You may need to click submit or hit enter after clicking the bookmark.
 
 If you're trying to use a journal name and it's not working, use the 'advanced search' option in pub med, add the journal as a 'journal' field. Then look at the url of the resulatant search to see what pubmed calls it.
